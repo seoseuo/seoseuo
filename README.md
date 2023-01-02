@@ -10,7 +10,7 @@
  
 ### 서승😹
 ##### 안녕하세요?<br>열심히 하는 사람 서승권입니다.
-- - -
+#
   
 <a href="https://chivalrous-saffron-326.notion.site/Project-444b03b51225487fb3214e8d2ecf3739"><img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white"/></a><br>
 <a href="https://chivalrous-saffron-326.notion.site/Project-444b03b51225487fb3214e8d2ecf3739"><img src="https://img.shields.io/badge/PROJECTS-000000?style=flat-square&logo=github&logoColor=white"/></a>
@@ -18,6 +18,16 @@
 <a href='mailto:seoseuo@naver.com'><img src="https://img.shields.io/badge/EMAIL-30B980?style=flat-square&logo=Mailgun&logoColor=white"></a>
 <a href="https://www.instagram.com/seuio__/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
 
+  
+</div>
+
+---
+
+<div align= "center">
+ 
+  <p align="right">
+    (https://github-readme-stats.vercel.app/api/top-langs/?username=seoseuo&langs_count=8)](https://github.com/seoseuo/github-readme-stats)
+  </p>
   
 </div>
 
