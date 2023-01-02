@@ -2,7 +2,7 @@
 
 ![제목 없음](https://user-images.githubusercontent.com/90320005/210201634-e87672ea-4220-48e6-ad8b-0cdd7ca86c7e.png)
 
-<img align="right" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=seoseuo)](https://github.com/anuraghazra/github-readme-stats)"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoseuo&theme=dark"/>
 
 
 <div align="center">
