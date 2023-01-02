@@ -45,7 +45,7 @@
 ### TOOLS⚒                         
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">  
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/notion-ffffff?style=flat&logo=notion&logoColor=black" />
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">           
