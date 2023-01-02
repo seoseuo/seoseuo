@@ -26,7 +26,7 @@
 <div align= "center">
  
   <p align="right">
-    (https://github-readme-stats.vercel.app/api/top-langs/?username=seoseuo&langs_count=8)](https://github.com/seoseuo/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoseuo&langs_count=8)](https://github.com/seoseuo/github-readme-stats)
   </p>
   
 </div>
