@@ -5,7 +5,8 @@
 
 ![제목 없음](https://user-images.githubusercontent.com/90320005/210201634-e87672ea-4220-48e6-ad8b-0cdd7ca86c7e.png)
 
-<img align ="right" src ="(https://github-readme-stats.vercel.app/api/top-langs/?username=seoseuo&layout=compact)(https://github.com/seoseuo/github-readme-stats)"/>
+<img align ="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=seoseuo&layout=8https://github.com/seoseuo/github-readme-stats"/>
+
 <div align="center">
 
 ### 서승😹
