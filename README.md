@@ -6,14 +6,13 @@
 ![제목 없음](https://user-images.githubusercontent.com/90320005/210201634-e87672ea-4220-48e6-ad8b-0cdd7ca86c7e.png)
 
 <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoseuo&langs_count=8)](https://github.com/seoseuo/github-readme-stats" />
-
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoseuo&layout=compact)](https://github.com/seoseuo/github-readme-stats" />
 <div align="center">
 
 ### 서승😹
 ##### 안녕하세요?<br>열심히 하는 사람 서승권입니다.<br>프론트엔드, 백엔드 모두 정진하고 있습니다.
 #
-##### INFO
+##### INFO🔍
 <a href="https://www.notion.so/d75c5abeb41a46519151ae95681db854"><img
             src="https://img.shields.io/badge/README-F8DC75?style=for-the-badge&logo=github&logoColor=white" /></a><br>
     <a href="https://chivalrous-saffron-326.notion.site/Project-444b03b51225487fb3214e8d2ecf3739"><img
