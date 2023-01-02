@@ -23,8 +23,8 @@
 
 ---
 
-<div align= "center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoseuo&langs_count=8)](https://github.com/seoseuo/github-readme-stats"/>
+<div align= "left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoseuo&langs_count=8)](https://github.com/seoseuo/github-readme-stats"/>
 </div>
 
 
