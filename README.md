@@ -11,12 +11,12 @@
 ##### 안녕하세요?<br>열심히 하는 사람 서승권입니다.<br>프론트엔드, 백엔드 모두 정진하고 있습니다.
 #
 ##### INFO🔍
-<a href="https://www.notion.so/d75c5abeb41a46519151ae95681db854"><img
+<a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854"><img
             src="https://img.shields.io/badge/BIO-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black" /></a><br>
-    <a href="https://chivalrous-saffron-326.notion.site/Project-444b03b51225487fb3214e8d2ecf3739"><img
+    <a href="https://chivalrous-saffron-326.notion.site/PROJECTS-444b03b51225487fb3214e8d2ecf3739"><img
             src="https://img.shields.io/badge/PROJECTS-000000?style=flat-square&logo=github&logoColor=white" /></a>
-    <a href="https://www.notion.so/archive-ee22e70e42c849b09d71fa730516acc6"><img
-            src="https://img.shields.io/badge/ARCHIVE-ffffff?style=flat-square&logo=notion&logoColor=black" /></a><br>
+    <a href="https://chivalrous-saffron-326.notion.site/archive-ee22e70e42c849b09d71fa730516acc6"><img
+            src="https://img.shields.io/badge/ARCHIVE-E6E6E6?style=flat-square&logo=notion&logoColor=black" /></a><br>
     <a href='mailto:seoseuo@naver.com'><img
             src="https://img.shields.io/badge/EMAIL-30B980?style=flat-square&logo=Mailgun&logoColor=white"></a>
     <a href="https://www.instagram.com/seuio__/"><img
