@@ -4,7 +4,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoseuo&theme=dark"/>
 
-
 <div align="center">
 
 ### 서승😹
