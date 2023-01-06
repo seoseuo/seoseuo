@@ -9,6 +9,7 @@
 
 ### 서승😹
 ##### 안녕하세요?<br>열심히 하는 사람 서승권입니다.<br>프론트엔드, 백엔드 모두 정진하고 있습니다.
+#
 ##### INFO🔍
 <a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854"><img
             src="https://img.shields.io/badge/BIO-CFCFCF?style=for-the-badge&logo=Argo&logoColor=black" /></a><br>
@@ -29,7 +30,9 @@
 
 <div align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=seoseuo&show_icons=true&theme=dark" />
-            <img align="left" src="https://github-readme-stats.vercel.app/api?username=seoseuo&show_icons=true&theme=dark" />
+    <img align="left" src="[https://github-readme-stats.vercel.app/api?username=seoseuo&show_icons=true&theme=dark](https://chivalrous-saffron-326.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F545d21c3-bf92-4809-a5b1-0cac705ea48a%2Fnavpic.png?id=eaaeebb3-74a3-4101-926e-bcb0f71f0210&table=block&spaceId=f02911ff-a5c6-4c9a-ae3e-63ed719e4cfe&width=840&userId=&cache=v2)" />
+            
+
             
 ### ONCE I'VE USED👨‍💻
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=CoffeeScript&logoColor=white">  
