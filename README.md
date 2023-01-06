@@ -30,22 +30,21 @@
 
 <div align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=seoseuo&show_icons=true&theme=dark" />
-    <img align="left" src="[https://github-readme-stats.vercel.app/api?username=seoseuo&show_icons=true&theme=dark](https://chivalrous-saffron-326.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F545d21c3-bf92-4809-a5b1-0cac705ea48a%2Fnavpic.png?id=eaaeebb3-74a3-4101-926e-bcb0f71f0210&table=block&spaceId=f02911ff-a5c6-4c9a-ae3e-63ed719e4cfe&width=840&userId=&cache=v2)" />
+   
             
 
             
-### ONCE I'VE USED👨‍💻
+### TECH STACK👨‍💻
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=CoffeeScript&logoColor=white">  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">  
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=black">
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=black">  
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 <br>  
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white">      
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">    
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=black">  
             
 ### TOOLS⚒                         
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">  
