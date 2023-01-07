@@ -11,7 +11,7 @@
 #
 ##### INFO🔍
 <a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854"><img
-            src="https://img.shields.io/badge/BIO-CFCFCF?style=for-the-badge&logo=Argo&logoColor=black" /></a><br>
+            src="https://img.shields.io/badge/BIO-8BC0D0?style=for-the-badge&logo=Argo&logoColor=black" /></a><br>
     <a href="https://chivalrous-saffron-326.notion.site/PROJECTS-444b03b51225487fb3214e8d2ecf3739"><img
             src="https://img.shields.io/badge/PROJECTS-000000?style=flat-square&logo=github&logoColor=white" /></a>
     <a href="https://chivalrous-saffron-326.notion.site/archive-ee22e70e42c849b09d71fa730516acc6"><img
