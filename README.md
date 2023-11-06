@@ -1,7 +1,5 @@
 <img align ="right" src ="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoseuo&count_bg=%23FFBCBC&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com"/><br>
 
-![제목 없음](https://user-images.githubusercontent.com/90320005/210201634-e87672ea-4220-48e6-ad8b-0cdd7ca86c7e.png)
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoseuo&bg_color=00000000"/>
 
 <div align="center">
