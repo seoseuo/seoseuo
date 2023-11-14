@@ -8,7 +8,6 @@
 ##### 안녕하세요?<br>열심히 하는 사람 서승권입니다.<br>프론트엔드, 백엔드 모두 정진하고 있습니다.
 #
 ##### INFO🔍
-click
 <a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854"><img
             src="https://img.shields.io/badge/BIO-8BC0D0?style=for-the-badge&logo=Argo&logoColor=black" /></a><br>
     <a href="https://chivalrous-saffron-326.notion.site/62072a86e78846bcae755c44a3aeaf27?v=d0dc2c4b86714183b4697032002471b2"><img
