@@ -9,18 +9,16 @@
 ##### 안녕하세요?<br>열심히 하는 사람 서승권입니다.<br>웹 , 앱 모두 정진하고 있습니다.<br>방문해주셔서 감사합니다.
 
 #
-##### 연락📨
+##### 관련
 <a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854">
 <img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/fe0c86a7-51d5-4daa-9292-333de9b8668e"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
 <a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854">
-<img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/967b43fe-60e1-4d9c-9e9b-e8b8237611b1"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/18c31b1e-4b82-4451-bddc-583db96891e2"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
 <a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854">
-<img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/31189883-10fb-4a82-8468-3d106b95ac6c"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/31189883-10fb-4a82-8468-3d106b95ac6c"/></a>
 
-<a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854">
-<img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/18c31b1e-4b82-4451-bddc-583db96891e2"/></a>
 
 </div>
 
