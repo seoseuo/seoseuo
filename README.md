@@ -1,57 +1,44 @@
 <img align ="right" src ="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoseuo&count_bg=%23FFBCBC&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com"/><br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoseuo&bg_color=00000000"/>
+
+<img align="left" style="width:30%;" src="https://github.com/seoseuo/RESUME/assets/90320005/07b7a01e-ec3e-415c-98fc-298d87ae8705"/>
 
 <div align="center">
 
-### 서승😹
-##### 안녕하세요?<br>열심히 하는 사람 서승권입니다.<br>프론트엔드, 백엔드 모두 정진하고 있습니다.
+### 서승권🐈
+##### 안녕하세요?<br>열심히 하는 사람 서승권입니다.<br>웹 , 앱 모두 정진하고 있습니다.<br>방문해주셔서 감사합니다.
+
 #
-##### INFO🔍
-<a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854"><img
-            src="https://img.shields.io/badge/BIO-8BC0D0?style=for-the-badge&logo=Argo&logoColor=black" /></a><br>
-    <a href="https://chivalrous-saffron-326.notion.site/62072a86e78846bcae755c44a3aeaf27?v=d0dc2c4b86714183b4697032002471b2"><img
-            src="https://img.shields.io/badge/PROJECTS-000000?style=flat-square&logo=github&logoColor=white" /></a>
-    <a href="https://chivalrous-saffron-326.notion.site/archive-ee22e70e42c849b09d71fa730516acc6"><img
-            src="https://img.shields.io/badge/ARCHIVE-E6E6E6?style=flat-square&logo=notion&logoColor=black" /></a><br>
-    <a href='mailto:seoseuo@naver.com'><img
-            src="https://img.shields.io/badge/EMAIL-30B980?style=flat-square&logo=Mailgun&logoColor=white"></a>
-    <a href="https://www.instagram.com/seuio__/"><img
-            src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
+##### 연락📨
+<a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854">
+<img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/fe0c86a7-51d5-4daa-9292-333de9b8668e"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
+<a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854">
+<img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/967b43fe-60e1-4d9c-9e9b-e8b8237611b1"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
+<a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854">
+<img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/31189883-10fb-4a82-8468-3d106b95ac6c"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+<a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854">
+<img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/18c31b1e-4b82-4451-bddc-583db96891e2"/></a>
 
 </div>
 
----
+<br><br>
 
 <div align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=seoseuo&show_icons=true&bg_color=00000000" />
 
+### 기술
 
-   
-            
-
-            
-### TECH STACK
-<img src="https://img.shields.io/badge/java-007396?style=flat&logo=CoffeeScript&logoColor=white">  
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">  
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=black">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-<br>  
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">    
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=black">  
-            
-### TOOLS                        
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">  
-<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/notion-ffffff?style=flat&logo=notion&logoColor=black" />
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">           
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">     
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">            
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/0b919d64-ab69-4ea4-8819-ad7d1a3906c6"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/04b95260-83b0-4e96-bffd-6b47acc975d9"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/7a33b7d4-4e51-4f21-b489-c89210489800"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/999a1609-596a-4139-b7eb-97000ab405da"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/7052ccc3-069a-45c8-9154-69983de3378d"/>
+<br><br>
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/05a8c8f7-bd46-4163-8913-a9902d841528"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/aed48c2c-183d-47a1-85bf-defa3271faf8"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/9755c3cc-576c-4d90-8a1d-898fddeea75a"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/ed6107e5-323a-4754-9231-c8f9628832e6"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/47f65240-cc01-4e2d-8619-f3d05e94501b"/>
 </div>
