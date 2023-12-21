@@ -1,6 +1,5 @@
 <img align ="right" src ="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoseuo&count_bg=%23FFBCBC&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com"/><br>
 
-
 <img align="left" style="width:30%;" src="https://github.com/seoseuo/RESUME/assets/90320005/07b7a01e-ec3e-415c-98fc-298d87ae8705"/>
 
 <div align="center">
@@ -10,17 +9,21 @@
 
 #
 ##### 관련
-<a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854">
+<a href="https://www.instagram.com/seuo__/">
 <img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/fe0c86a7-51d5-4daa-9292-333de9b8668e"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
-<a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854">
+<a href="seoseuo@naver.com">
 <img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/18c31b1e-4b82-4451-bddc-583db96891e2"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
-<a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854">
+<a href="">
+<img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/83d311a8-4951-4524-a6c4-567ebaa1fdfb"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+<a href="https://velog.io/@seuo">
 <img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/31189883-10fb-4a82-8468-3d106b95ac6c"/></a>
 
 
 </div>
+
 
 <br><br>
 
