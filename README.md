@@ -31,7 +31,7 @@
 
 ### 기술
 
-<img width="60px" src="https://github.com/seoseuo/seoseuo/assets/90320005/75a8a4e0-71c2-4f8f-b282-2ff5f37f5fb7"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://github.com/seoseuo/seoseuo/assets/90320005/75a8a4e0-71c2-4f8f-b282-2ff5f37f5fb7"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img width="60px" src="https://github.com/seoseuo/seoseuo/assets/90320005/8f6b42ea-5e75-488e-8c9f-e7a459f6230c"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="60px" src="https://github.com/seoseuo/seoseuo/assets/90320005/ed183ebe-8414-4306-bf2c-143a7f3b6955"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="60px" src="https://github.com/seoseuo/seoseuo/assets/90320005/9c9882e5-ef97-4cfd-a8ec-1ee6a19a22d5"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
