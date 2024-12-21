@@ -1,4 +1,4 @@
-<img align="left" style="width:30%;" src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ff02911ff-a5c6-4c9a-ae3e-63ed719e4cfe%2F01518b7d-a1d3-4e4a-8013-0702d2cca8e1%2F%25ED%258F%25AC%25ED%2594%258C%25ED%2594%258C%25ED%2595%2584.png?table=block&id=9a8f9bd0-2e1e-4cd3-a06d-856ea6857d78&spaceId=f02911ff-a5c6-4c9a-ae3e-63ed719e4cfe&width=1180&userId=fc7411bc-598e-431d-b643-0d71559a3db0&cache=v2"/>
+<img align="left" style="width:20%;" src="https://github.com/user-attachments/assets/9220527f-2acb-4202-8035-0c1382c0174e"/>
 
 <div align="center">
 
