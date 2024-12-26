@@ -7,7 +7,7 @@
 ### 정보
 <b>한림대</b> 융합소프트웨어 , 빅데이터 전공 <b>공학사</b><br>
 <a href="https://chivalrous-saffron-326.notion.site/RESUME-b08978d8a93145c6a2c721a510845762?pvs=4" target="_blank">
-    <img src="https://img.shields.io/badge/BIO-E6E6E6?style=for-the-badge&logo=Bun&logoColor=gray" />
+    <img src="https://img.shields.io/badge/포트폴리오-E6E6E6?style=for-the-badge&logo=Bun&logoColor=gray" />
 </a>
 
 
