@@ -1,4 +1,4 @@
-<img align="left" style="width:11%;" src="https://github.com/user-attachments/assets/41ea3524-de70-4cb5-b185-693498f08c1b"/>
+<img align="left" style="width:12%;" src="https://github.com/user-attachments/assets/41ea3524-de70-4cb5-b185-693498f08c1b"/>
 <br>
 <h1>백엔드 개발자 서승권</h1>
 <br>
@@ -15,7 +15,7 @@
 **연락처** +82-10-7270-3173 <br>
 **이메일** seoseuo@naver.com <br><br>
 
-<a href="https://chivalrous-saffron-326.notion.site/RESUME-b08978d8a93145c6a2c721a510845762?pvs=4" target="_blank">
+<a href="https://chivalrous-saffron-326.notion.site/seuo-portfolio?pvs=4" target="_blank">
     <img src="https://img.shields.io/badge/서승권 포트폴리오-E6E6E6?style=for-the-badge&logo=Bun&logoColor=gray" />
 </a><br>
 
