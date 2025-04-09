@@ -1,9 +1,13 @@
 <img align="left" style="width:12%;" src="https://github.com/user-attachments/assets/41ea3524-de70-4cb5-b185-693498f08c1b"/>
+
+
+
 <br>
 <h1>백엔드 개발자 서승권</h1>
+
 <br>
 
-<img align="left" style="width:35%;" src="https://github.com/user-attachments/assets/e8220c40-82b3-453d-8f49-47dd0e99b540"/>
+<img align="left" style="width:35%;" src="https://github.com/user-attachments/assets/55f3b6c5-c163-429a-9616-436929ffb04f"/>
 
 <div align="center">
 <br>
