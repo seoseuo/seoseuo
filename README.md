@@ -30,16 +30,32 @@
 
 ## 개발자 서승권 :
 
-> 직면한 문제를 반드시 해결하겠다는 책임감을 가지고 임하며 결국 해결해냅니다.<br>
-전체적인 흐름과 구조를 설계하는 것을 즐기며, 구현 과정에서는 섬세하고 꼼꼼한 부분까지 놓치지 않으려 노력합니다.<br>
-빠른 이해력과 적응력을 바탕으로 기획, 설계, 개발, 배포까지 전 과정을 직접 경험하며 결과물을 완성한 경험이 있습니다.<br>
-학창 시절에는 다양한 대외활동과 학생자치기구 활동을 통해 여러 분야의 인재들과 협업하며 목표를 달성해 왔고,<br>
-그 과정에서 커뮤니케이션 능력이 뛰어난 협업 능력과 원활한 소통 역량을 낳았습니다.
+>  직면한 문제를 반드시 책임감을 가지고 임하며 결국 해결해냅니다.<br>
+ 섬세하고 꼼꼼히 작은 부분까지 염두하여 놓치지 않으려 노력합니다.<br>
+ 빠른 이해력과 적응력을 바탕으로 기획, 설계, 개발, 배포까지 전 과정을 직접 경험하며 결과물을 완성한 경험이 있습니다.<br>
+ 학창 시절에는 다양한 학생자치기구 활동을 통해 여러 분야의 인재들과 협업하며 목표를 달성해 왔고,<br>
+ 그 과정에서 커뮤니케이션 능력이 뛰어난 협업 능력과 원활한 소통 역량을 낳았습니다.
 >
+
+## 기술 스택
+### Programming Language
+ Java , JavaScript(ES6), TypeScript
+ 
+### Framework · Library
+ Spring Framework, Bootstrap, JPA, JSP
+ 
+### Server
+ MySQL, Apache Tomcat, Nginx, Reids
+ 
+### Tooling / DevOps
+ GitHub, Git, Docker, AWS EC2
+ NCP(Naver Cloud Platform),Eclipse, InteliJ, CursorAI
+ 
+### ETC
+ Notion, Figma, Postman
 
 ## 개발자로서 이런 기술을 가지고 있습니다.
 
-- 개인 및 협업 프로젝트에서 API 서버 설계 및 개발 경험
 - Spring Framework 를 활용한 Backend API 서버 구현
 - Naver Cloud Platform(NCP)을 통한 프로젝트 배포 및 관리
 - AWS EC2를 활용한 프론트엔드 및 백엔드 분리 배포 및 관리
