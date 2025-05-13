@@ -19,7 +19,7 @@
 **연락처** +82-10-7270-3173 <br>
 **이메일** seoseuo@naver.com <br><br>
 
-<a href="https://chivalrous-saffron-326.notion.site/seuo-portfolio?pvs=4" target="_blank">
+<a href="https://github.com/seoseuo/portfolio/blob/master/%E1%84%89%E1%85%A5%E1%84%89%E1%85%B3%E1%86%BC%E1%84%80%E1%85%AF%E1%86%AB%20%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9.pdf" target="_blank">
     <img src="https://img.shields.io/badge/서승권 포트폴리오-E6E6E6?style=for-the-badge&logo=Bun&logoColor=gray" />
 </a><br>
 
