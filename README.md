@@ -56,6 +56,19 @@
 ### ETC
  Notion, Figma, Postman
 
+## 주요 프로젝트
+https://github.com/seoseuo/tst-BE
+![image](https://github.com/user-attachments/assets/63d7edde-2cee-4b1f-8ba2-6c483e51e1a4)
+
+https://github.com/seoseuo/gal-lae-mal-lae-web
+![image](https://github.com/user-attachments/assets/51c05cf8-51a6-484c-9eb2-5c5f564af914)
+
+
+https://github.com/seoseuo/REAPLETTE
+![image](https://github.com/user-attachments/assets/1d7b0ce8-080e-48d7-8156-df679e945064)
+
+
+
 ## 개발자로서 이런 기술을 가지고 있습니다.
 
 - Spring Framework 를 활용한 Backend API 서버 구현
