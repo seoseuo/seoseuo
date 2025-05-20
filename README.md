@@ -14,7 +14,8 @@
     
 ### 안녕하십니까,<br>정진하는 개발자 서승권 입니다.<br>안주하지 않고 늘 발전하고 싶습니다.
 **출생** 1999.09.20 <br>
-**한림대학교** 융합소프트웨어 주전공 , 빅데이터 전공 부전공 <br>
+**한림대학교** 융합소프트웨어 주전공<br>
+**한림대학교** 빅데이터 전공 부전공 <br>
 **연락처** +82-10-7270-3173 <br>
 **이메일** seoseuo@naver.com <br>
 **포트폴리오** [portfolio.pdf](https://github.com/user-attachments/files/20347100/default.pdf) <br>
@@ -31,12 +32,9 @@
 ## 개발자 서승권 :
 
 저는 Spring Boot를 기반으로 MVC 모델, JSP 그리고 JPA 기술을 활용하여 웹 애플리케이션을 개발합니다.<br>
-다양한 팀 프로젝트와 개인 프로젝트를 수행하면서, 아이디어 기획부터 데이터베이스 및 시스템 아키텍처 설계,<br>
-백엔드 로직 구현, 서버 배포에 이르기까지 하나의 프로젝트에 대한 전 과정을 직접 경험하며 개발 역량을 쌓았습니다.<br>
-하나의 웹 애플리케이션의 완전성과 안정성 확보를 최우선의 목표로 삼고,<br>
-시스템의 동작을 방해하지 않도록 하는 예외 처리 로직을 적용하려 노력하고 있습니다.<br>
-저는 단순히 기능 구현에 그치는 것이 아닌, 사용자의 관점과 시스템의<br>
-안정성까지 고려한 전체적인 개발 흐름과 구조를 이해하고 적용할 수 있는 개발자입니다.<br>
+다양한 팀 프로젝트와 개인 프로젝트를 수행하면서, 아이디어 기획부터 데이터베이스 및 시스템 아키텍처 설계, 백엔드 로직 구현, 서버 배포에 이르기까지 하나의 프로젝트에 대한 전 과정을 직접 경험하며 개발 역량을 쌓았습니다.<br>
+하나의 웹 애플리케이션의 완전성과 안정성 확보를 최우선의 목표로 삼고, 시스템의 동작을 방해하지 않도록 하는 예외 처리 로직을 적용하려 노력하고 있습니다.<br>
+저는 단순히 기능 구현에 그치는 것이 아닌, 사용자의 관점과 시스템의 안정성까지 고려한 전체적인 개발 흐름과 구조를 이해하고 적용할 수 있는 개발자입니다.<br>
 앞으로도 지속적인 학습과 실전 경험을 통해 더욱 성장해 나가고자 합니다.
 
 
@@ -58,17 +56,20 @@
  Notion, Figma, Postman
 
 ## 주요 프로젝트
-https://github.com/seoseuo/tst-BE
+### [테스형 GitHub](https://github.com/seoseuo/tst-BE)
 ![image](https://github.com/user-attachments/assets/63d7edde-2cee-4b1f-8ba2-6c483e51e1a4)
 
-https://github.com/seoseuo/gal-lae-mal-lae-web
+<hr>
+
+### [갈래말래 GitHub](https://github.com/seoseuo/gal-lae-mal-lae-web)
 ![image](https://github.com/user-attachments/assets/51c05cf8-51a6-484c-9eb2-5c5f564af914)
 
+<hr>
 
-https://github.com/seoseuo/REAPLETTE
+### [리플렛 GitHub](https://github.com/seoseuo/REAPLETTE)
 ![image](https://github.com/user-attachments/assets/1d7b0ce8-080e-48d7-8156-df679e945064)
 
-
+<hr>
 
 ## 개발자로서 이런 기술을 가지고 있습니다.
 
