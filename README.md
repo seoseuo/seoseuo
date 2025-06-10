@@ -4,20 +4,13 @@
 <div align='right'>
     <h3>
         안녕하십니까,<br>정진하는 개발자 서승권 입니다.<br>안주하지 않고 늘 발전하고 싶습니다.<br>능동적으로 기획을 실현합니다.
-    </h3>
+    </h3>    
 </div>
 
 #
 
-**출생** 1999.09.20 <br>
-**한림대학교** 융합소프트웨어 주전공<br>
-**한림대학교** 빅데이터 전공 부전공 <br>
-**연락처** +82-10-7270-3173 <br>
-**이메일** seoseuo@naver.com <br>
-**포트폴리오** [서승권 포트폴리오](https://github.com/user-attachments/files/20671494/default.pdf) <br>
-
-#
-
+<a href="https://velog.io/@seuo/posts"><img src="https://img.shields.io/badge/seoseuo.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a>
+<a href="https://seondal.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835&pvs=4"><img src="https://img.shields.io/badge/ReadMe-735998?style=badge&logo=GitHub&logoColor=white"/></a> <a href="https://instagram.com/dev_seondal"><img src="https://img.shields.io/badge/instagram-d62976?style=badge&logo=Instagram&logoColor=white"/></a>
 ### 기술 스택
 #### Programming Language
  > Java , JavaScript(ES6), TypeScript
