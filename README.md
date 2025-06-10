@@ -39,7 +39,7 @@ ETC
     </summary>
 <br>
     
-| 기간 | 프로젝트 | 소개 | Github | 상세소개 |
+| 기간 | 프로젝트 | 소개 | Github | 소개 |
 | ---- | -------- | ---- | ------ | -------- |
 | <sub>2025/05</sub> | 테스형 | <sub>자기사유 테스트 플랫폼 웹 서비스</sub> [🔗](https://tessbro.site) | [🔗](https://github.com/seoseuo/tst-BE) | [🔗](https://chivalrous-saffron-326.notion.site/1e10ba93975b80cb80e4d09bd9a4e437?source=copy_link) |
 | <sub>2025/04</sub> | 갈래말래 | <sub>여행 모임 일정 관리 및 장소 추천 커뮤니티 웹 서비스</sub> | [🔗](https://github.com/seoseuo/gal-lae-mal-lae-web) | [🔗](https://chivalrous-saffron-326.notion.site/1d10ba93975b8086a976d70dd9224326?source=copy_link) |
