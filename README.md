@@ -1,31 +1,38 @@
 
 
     
-<div align='right'>
-    <h3>
+<div align='left'>    
+    <h4>
         안녕하십니까,<br>정진하는 개발자 서승권 입니다.<br>안주하지 않고 늘 발전하고 싶습니다.<br>능동적으로 기획을 실현합니다.
     </h3>    
 </div>
 
-#
+<a href="https://velog.io/@seuo/series"><img src="https://img.shields.io/badge/seoseuo.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://drive.google.com/file/d/1ZDuj3J7Ex6q1e68_Zs1VORQn3aHaefTu/view?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-A8B9CC?style=badge&logo=googledocs&logoColor=white"/></a> <a href="https://drive.google.com/file/d/1W-an2drAH6ErFzYlif6wOAVIv2iXJVEV/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=badge&logo=googledocs&logoColor=white"/></a>
 
-<a href="https://velog.io/@seuo/posts"><img src="https://img.shields.io/badge/seoseuo.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a>
-<a href="https://seondal.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835&pvs=4"><img src="https://img.shields.io/badge/ReadMe-735998?style=badge&logo=GitHub&logoColor=white"/></a> <a href="https://instagram.com/dev_seondal"><img src="https://img.shields.io/badge/instagram-d62976?style=badge&logo=Instagram&logoColor=white"/></a>
-### 기술 스택
-#### Programming Language
+#
+<details>
+    <summary>
+        #### Tech
+    </summary>
+
+#### Stack
+##### Programming Language
  > Java , JavaScript(ES6), TypeScript
- 
-#### Framework · Library
+
+##### Framework · Library
  > Spring Framework, Bootstrap, JPA, JSP, Next.js
  
-#### Server
+##### Server
  > MySQL, Apache Tomcat, Nginx, Reids
  
-#### Tooling / DevOps
+##### Tooling / DevOps
  > Docker, AWS EC2, NCP(Naver Cloud Platform)
  
-#### ETC
+##### ETC
  > Notion, Figma, Excel, PowerPoint, Word, Google Sheet
+    
+</details>
+
 
 ### 주요 프로젝트
 ### [테스형 GitHub](https://github.com/seoseuo/tst-BE)
