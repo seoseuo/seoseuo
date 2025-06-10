@@ -1,81 +1,71 @@
-
-
-    
 <div align='left'>    
     <h4>
         안녕하십니까,<br>정진하는 개발자 서승권 입니다.<br>안주하지 않고 늘 발전하고 싶습니다.<br>능동적으로 기획을 실현합니다.
     </h3>    
 </div>
 
-<a href="https://velog.io/@seuo/series"><img src="https://img.shields.io/badge/seoseuo.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://drive.google.com/file/d/1ZDuj3J7Ex6q1e68_Zs1VORQn3aHaefTu/view?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-A8B9CC?style=badge&logo=googledocs&logoColor=white"/></a> <a href="https://drive.google.com/file/d/1W-an2drAH6ErFzYlif6wOAVIv2iXJVEV/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=badge&logo=googledocs&logoColor=white"/></a>
+<a href="https://velog.io/@seuo/series"><img src="https://img.shields.io/badge/seoseuo.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://drive.google.com/file/d/1W-an2drAH6ErFzYlif6wOAVIv2iXJVEV/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=badge&logo=qq&logoColor=white"/></a> <a href="https://drive.google.com/file/d/1ZDuj3J7Ex6q1e68_Zs1VORQn3aHaefTu/view?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-A8B9CC?style=badge&logo=googledocs&logoColor=white"/></a> <a href="https://www.notion.so/62072a86e78846bcae755c44a3aeaf27?v=d0dc2c4b86714183b4697032002471b2"><img src="https://img.shields.io/badge/Project Archaive-000000?style=badge&logo=duplicati&logoColor=white"/></a>
 
 #
+
 <details>
     <summary>
-        #### Tech
+        Tech
     </summary>
+<br>
+Programming Language
+<br><sub>Java, JavaScript (ES6), TypeScript</sub>
 
-#### Stack
-##### Programming Language
- > Java , JavaScript(ES6), TypeScript
+Framework · Library
+<br><sub>Spring Framework, Bootstrap, JPA, JSP, Next.js</sub><br>
 
-##### Framework · Library
- > Spring Framework, Bootstrap, JPA, JSP, Next.js
- 
-##### Server
- > MySQL, Apache Tomcat, Nginx, Reids
- 
-##### Tooling / DevOps
- > Docker, AWS EC2, NCP(Naver Cloud Platform)
- 
-##### ETC
- > Notion, Figma, Excel, PowerPoint, Word, Google Sheet
-    
+Server
+<br><sub>MySQL, Apache Tomcat, Nginx, Redis</sub>
+
+DevOps
+<br><sub>Docker, AWS EC2, NCP (Naver Cloud Platform)</sub>
+
+ETC
+<br><sub>Notion, Figma, Excel, PowerPoint, Word, Google Sheet</sub>
+#
 </details>
+<details>
+    <summary>
+        Projects
+    </summary>
+<br>
+    
+| 기간 | 프로젝트 | 소개 | Github | 상세소개 |
+| ---- | -------- | ---- | ------ | -------- |
+| <sub>2025/05</sub> | 테스형 | 자기사유 테스트 플랫폼 웹 서비스 [🔗](https://tessbro.site) | [🔗](https://github.com/seoseuo/tst-BE) | [🔗](https://chivalrous-saffron-326.notion.site/1e10ba93975b80cb80e4d09bd9a4e437?source=copy_link) |
+| <sub>2025/04</sub> | 갈래말래 | 여행 모임 일정 관리 및 장소 추천 커뮤니티 웹 서비스 | [🔗](https://github.com/seoseuo/gal-lae-mal-lae-web) | [🔗](https://chivalrous-saffron-326.notion.site/1d10ba93975b8086a976d70dd9224326?source=copy_link) |
+| <sub>2024/12</sub> | Reaplette | **🏅멀티캠퍼스 우수상** 개인 맞춤형 독서 관리 및 커뮤니티 웹 서비스 | [🔗](https://github.com/seoseuo/REAPLETTE) | [🔗](https://chivalrous-saffron-326.notion.site/Reaplette-1650ba93975b80668fbadca4b9abbb8f?source=copy_link) |
+| <sub>2024/10</sub> | 학사 정보 시스템 | 관리자, 교수자, 학생을 위한 학생 성적 관리 웹 서비스 | [🔗](https://github.com/seoseuo/SGMW) | [🔗](https://chivalrous-saffron-326.notion.site/1170ba93975b80cfaeb1c0c8e7693671?source=copy_link) |
+| <sub>2023/12</sub> | 에브리웨더 | 날씨와 함께 담아내는 나만의 다이어리 SNS 웹 서비스 | [🔗](https://github.com/seoseuo/UNIVCollection/tree/main/EveryWeather) | [🔗](https://chivalrous-saffron-326.notion.site/8a8702f185e74c949d0782c9eb696b06?source=copy_link) |
+| <sub>2023/06</sub> | 춘자 (춘천 자영업 화이팅) | 춘천 자영업 화이팅 지역 상권 홍보 재생 플랫폼 웹 서비스 | [🔗](https://github.com/seoseuo/UNIVCollection/tree/main/Chunja) | [🔗](https://chivalrous-saffron-326.notion.site/289f313a30b24ad181c22090276d81aa?source=copy_link) |
+| <sub>2023/05</sub> | 나는 지금 UODI? (어디?) | **🏅캡스톤 디자인 입선** 백화점, 전시회와 같은 실내 위치 기반 추적 모델 응용 안드로이드 앱 | [🔗](https://github.com/seoseuo/UODI/tree/master) | [🔗](https://chivalrous-saffron-326.notion.site/UODI-c86b61305b3145f0afe385f9d6e726bd?source=copy_link) |
+| <sub>2022/12</sub> | SEOSEUOFOLIO | **🏅입선 및 PT** (주)더존비즈온 연계 포트폴리오 안드로이드 앱 | [🔗](https://github.com/seoseuo/SEOSEUOFOLIO) | [🔗](https://chivalrous-saffron-326.notion.site/SEOSEUOFOLIO-67fb1bc68d0145edacba6979ef0fcd18?source=copy_link) |
+#
+</details>
+<details>
+    <summary>
+        Activity
+    </summary>
+<br>
+    
+| 기간 | 활동 | 내용 |
+|------|------|------|
+| <sub>2024/07 ~ 2024/12</sub> | 멀티캠퍼스 백엔드 27기 | 백엔드 개발자(스프링) 부트캠프 교육 |
+| <sub>2023/03 ~ 2023/06</sub> | 학술 동아리 '멀티플렉스' | 자바 프로그래밍 1 기초 멘토링 |
+| <sub>2023/02 ~ 2024/02</sub> | 정보과학대학 학생회 총무국장 | 학생회비 및 예산 관리, 결산 업무, 예하 학생회 관리 |
+| <sub>2022/12</sub> | (주)더존 비즈온 ICT | (주)더존 비즈온 ICT 주관 스마트 포트폴리오 프로젝트 입선 및 방문 PT |
+| <sub>2022/12 ~ 2023/01</sub> | 한림대학교 SW중심 사업단 특강 | 한림대 비교과 웹 특강 이수 및 팀 프로젝트 수행 |
+| <sub>2022/09 ~ 2023/05</sub> | 한림대학교 축제준비위원회 무대팀 | 프로그램 기획 및 진행, 무대 운영 및 안전 통제 |
+| <sub>2022/05</sub> | 한림대학교 캡스톤 디자인 경진 대회 | 한림대학교 소프트웨어 캡스톤 디자인 경진 대회 입선 |
+| <sub>2022/03 ~ 2022/06</sub> | 한림대학교 SW중심 사업단 | 웹 서버 구축 기초 멘토링 진행 |
+| <sub>2022/03 ~ 2022/06</sub> | 학술 동아리 '노네임' | 자바 프로그래밍 1 기초 멘토링 |
+| <sub>2022/02 ~ 2023/02</sub> | 정보과학대학 학생회 체육부장 | 체육대회 및 행사 기획, 동아리 및 단과대학 축제 진행 |
+| <sub>2018.03 ~ 2024.02</sub> | 한림대학교 | 강원도 춘천시 소재 한림대학교 IT계열 학부 입학 |
+#
 
-
-### 주요 프로젝트
-### [테스형 GitHub](https://github.com/seoseuo/tst-BE)
-![image](https://github.com/user-attachments/assets/63d7edde-2cee-4b1f-8ba2-6c483e51e1a4)
-
-<hr>
-
-### [갈래말래 GitHub](https://github.com/seoseuo/gal-lae-mal-lae-web)
-![image](https://github.com/user-attachments/assets/51c05cf8-51a6-484c-9eb2-5c5f564af914)
-
-<hr>
-
-### [리플렛 GitHub](https://github.com/seoseuo/REAPLETTE)
-![image](https://github.com/user-attachments/assets/1d7b0ce8-080e-48d7-8156-df679e945064)
-
-<hr>
-
-## 개발자로서 이런 기술을 가지고 있습니다.
-
-- Spring Framework 를 활용한 Backend API 서버 구현
-- Naver Cloud Platform(NCP)을 통한 프로젝트 배포 및 관리
-- AWS EC2를 활용한 프론트엔드 및 백엔드 분리 배포 및 관리
-- JUnit 기반 TDD(Test-Driven Development) 테스트 수행
-- API 통합을 통해 서비스 간 데이터 교환 및 실시간 정보 제공 구현
-- JWT, Spring Security를 활용한 인증 및 권한 관리 기능 구현
-- JPA 기반 ORM 매핑 설계를 통한 데이터베이스 연동 및 효율적인 트랜잭션 처리
-- RESTful API 설계 및 문서화를 통해 프론트엔드와의 원활한 협업 경험
-- Postman을 이용한 API 테스트 및 검증으로 개발 단계에서의 오류 최소화 추구
-
-## 개발자로서 이런 경험을 해보았습니다.
-
-- 프로젝트 요구사항 정의 및 산출물 작성부터 기획-개발 전 과정을 주도적으로 수행
-- Spring Framework MVC 패턴 기반 소프트웨어 아키텍처 설계 및 구현
-- Word, 한글, Excel 및 Notion을 이용한 산출물을 비롯 체계적인 문서 관리
-- Git, GitHub, Figma 등 협업 도구를 활용한 팀 프로젝트 관리 및 효율적 소통
-- Git Flow를 기반으로 브랜치 전략을 수립하고, 팀원 간 충돌 없이 코드 병합을 유도
-- 디자이너와의 Figma 협업을 통해 UI 기획 및 디자인 피드백 주도
-- GitHub Action를 이용한 CI/CD 자동화 구축 경험
-- Docker로 애플리케이션을 컨테이너화하여 환경 간 일관된 배포 경험
-- AWS 기반 GitHub Action - Docker - EC2 파이프라인을 통해 코드 Push 시 자동 배포 환경 구축
-- PWA 기술을 적용해 웹 서비스의 모바일 환경 타겟팅 경험
-
-> 추가적인 정보는 상단의 서승권 포트폴리오를 부탁드립니다.
-
-감사합니다.
 
