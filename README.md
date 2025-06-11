@@ -4,7 +4,7 @@
     </h3>    
 </div>
 
-<a href="https://velog.io/@seuo/series"><img src="https://img.shields.io/badge/seoseuo.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://drive.google.com/file/d/1R1gMC4Z_HUgxfC1uSW2kaAVQ71VrMzBk/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=badge&logo=qq&logoColor=white"/></a> <a href="https://drive.google.com/file/d/1ZDuj3J7Ex6q1e68_Zs1VORQn3aHaefTu/view?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-A8B9CC?style=badge&logo=googledocs&logoColor=white"/></a> <a href="https://www.notion.so/62072a86e78846bcae755c44a3aeaf27?v=d0dc2c4b86714183b4697032002471b2"><img src="https://img.shields.io/badge/Project Archaive-000000?style=badge&logo=duplicati&logoColor=white"/></a>
+<a href="https://velog.io/@seuo/series"><img src="https://img.shields.io/badge/seoseuo.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> <a href="https://drive.google.com/file/d/1R1gMC4Z_HUgxfC1uSW2kaAVQ71VrMzBk/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=badge&logo=qq&logoColor=white"/></a> <a href="https://drive.google.com/file/d/1ZDuj3J7Ex6q1e68_Zs1VORQn3aHaefTu/view?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-A8B9CC?style=badge&logo=googledocs&logoColor=white"/></a> <a href="https://chivalrous-saffron-326.notion.site/62072a86e78846bcae755c44a3aeaf27?v=d0dc2c4b86714183b4697032002471b2"><img src="https://img.shields.io/badge/Project Archaive-000000?style=badge&logo=duplicati&logoColor=white"/></a>
 
 #
 
